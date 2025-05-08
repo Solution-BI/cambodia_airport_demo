@@ -9,7 +9,6 @@ This project fetches flight information from the AviationStack API, extracting d
 - Saves flight events to a Excel file.
 
 ## Data Model
-## Data Model
 
 The logical data model below outlines the relationships between key entities such as Flights, Scheduled FLight, Aircraft, Airline, and Airports.
 
